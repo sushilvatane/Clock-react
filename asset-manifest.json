@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sushilvatane/Clock-react.git/static/css/main.d2960cfa.css",
+    "main.js": "/sushilvatane/Clock-react.git/static/js/main.1fc347d1.js",
+    "index.html": "/sushilvatane/Clock-react.git/index.html",
+    "main.d2960cfa.css.map": "/sushilvatane/Clock-react.git/static/css/main.d2960cfa.css.map",
+    "main.1fc347d1.js.map": "/sushilvatane/Clock-react.git/static/js/main.1fc347d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2960cfa.css",
+    "static/js/main.1fc347d1.js"
+  ]
+}
